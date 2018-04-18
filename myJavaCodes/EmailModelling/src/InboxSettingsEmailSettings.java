@@ -1,0 +1,11 @@
+
+public class InboxSettingsEmailSettings {
+
+	Object inBoxtypeInboxSettingsEmailSettings;
+	
+	CategoriesInboxEmailSettings CategoriesInboxEmailSettings;
+	
+	ImportanceMarkerInboxSettingsEmailSettings importanceMarkerInboxSettingsEmailSettings;
+
+	FilteredMailInboxSettingsEmailSettings filteredMailInboxSettingsEmailSettings; 
+}

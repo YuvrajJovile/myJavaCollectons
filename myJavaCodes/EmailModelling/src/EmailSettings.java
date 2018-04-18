@@ -1,0 +1,16 @@
+
+public class EmailSettings {
+	
+	GeneralSettingsEmailSettings generalSettingsEmailSettings;
+	LabelSettingsEmailSettings labelSettingsEmailSettings;
+	InboxSettingsEmailSettings inboxSettingsEmailSettings;
+	AccountSettingsEmailSettings accountSettingsEmailSettings;
+	FiltersAndBlockedAddressSettingsEmailSettings filtersAndBlockedAddressSettingsEmailSettings;
+	ForwardingSettingsEmailSettings forwardingSettingsEmailSettings;
+	AddOnsSettingEmailSettings addOnsSettingEmailSettings;
+	ChatSettingsEmailSettings chatSettingsEmailSettings;
+	LabsSettingsEmailSettings labsSettingsEmailSettings;
+	OfflineSettingsEmailSettings offlineSettingsEmailSettings;
+	ThemeSettingsEmailSettings themeSettingsEmailSettings;
+	
+}
